@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Daniel_Rodrigo_Prueba3</string>
+
+    <string name="textDueno">Ingrese Su Nombre</string>
+    <string name="textDueño">Ingrese Su Nombre</string>
+    <string name="editNombre">Nombre</string>
+    <string name="btnSiguiente">Siguiente</string>
+    <string name="idDueno">Mascota De</string>
+    <string name="txtVeterinaria">Ubicacion de la Veterinaria</string>
+    <string name="editmascota">Nombre Mascota</string>
+    <string name="editedad">Edad Mascota</string>
+    <string name="editraza">Raza Mascota</string>
+    <string name="btnagregar">Agregar</string>
+    <string name="btncancelar">Cancelar</string>
+    <string name="btneditar">Editar</string>
+    <string name="btneliminar">Eliminar</string>
+
+
 </resources>
